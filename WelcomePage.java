@@ -30,6 +30,10 @@ public class WelcomePage {
 
             // Make the window visible
             frame.setVisible(true);
+
+            // Print the welcome message to the console
+            System.out.println("Welcome to Java");
         });
     }
 }
+
